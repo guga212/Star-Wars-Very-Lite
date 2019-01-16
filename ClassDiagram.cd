@@ -1,0 +1,221 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="camera" Collapsed="true">
+    <Position X="7.25" Y="7.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>CAQAIAAAAgAgAIAgAAgBASAgAAEGABAAgBAABAgADAA=</HashCode>
+      <FileName>camera.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ekran" Collapsed="true">
+    <Position X="9.25" Y="7.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAQAgAIAAAAgAAAAAAIAAAAgAAAAAAAAAAAEABgAAAA=</HashCode>
+      <FileName>Ekran.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Game" Collapsed="true">
+    <Position X="11.25" Y="7.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAABAIAAAAAAAAAAEgAAAgACAAAAAIIQBgAAEA=</HashCode>
+      <FileName>Game.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="grph_obj" Collapsed="true">
+    <Position X="3" Y="7.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>1BRwECUWAgKACiAABGAQAAAFgAPABAAgABAIERsAAgM=</HashCode>
+      <FileName>graphic.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="std_bchv_model" Collapsed="true">
+    <Position X="3" Y="8.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAAAAAQAAAAAAIAAAAAAAAIEIIAAAA=</HashCode>
+      <FileName>graphic.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="prim" Collapsed="true">
+    <Position X="1.75" Y="10.25" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAgAAAAAAAAAAAAAAgABAAAAAABAAAAAIAAA=</HashCode>
+      <FileName>graphic.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="kwdrt" Collapsed="true">
+    <Position X="0.75" Y="11.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAQAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>graphic.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="sphere" Collapsed="true">
+    <Position X="3" Y="11.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAQAAABAAABAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>graphic.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="loaded_obj_model" Collapsed="true">
+    <Position X="5.25" Y="10.25" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAgCAAAAAAAAAAAAAgABAAABAAAAAAgBARAA=</HashCode>
+      <FileName>graphic.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="obj_model_sb" Collapsed="true">
+    <Position X="5.25" Y="11.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAABAAAAAAAAAQAAAAAABAAAgAAAAA=</HashCode>
+      <FileName>graphic.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="grph_mng" Collapsed="true">
+    <Position X="3.5" Y="0.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAABAAAAAAAAAAAAAAQAAQAAAAAAAAAAAECgEAIAAA=</HashCode>
+      <FileName>mng.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ship_mng" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAgAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAACCAA=</HashCode>
+      <FileName>mng.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="res_mng" Collapsed="true">
+    <Position X="0.5" Y="1.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAQIICAAAABAAAAAAAAIBABAQAAA=</HashCode>
+      <FileName>mng.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="object" Collapsed="true">
+    <Position X="6.5" Y="0.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AQQgAAIAACAAAiAAAIAAAYQAAAAAIAAAAAAAAAAAAEA=</HashCode>
+      <FileName>object.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="stdrt_object" Collapsed="true">
+    <Position X="6.5" Y="1.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AQQgAAIAAAAAAiAAAAAAAAAAAAAAAAAAAAAAAAAAAEA=</HashCode>
+      <FileName>object.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="act_obj" Collapsed="true">
+    <Position X="3.25" Y="3.25" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AIAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAgAAAAAA=</HashCode>
+      <FileName>object.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="bullet" Collapsed="true">
+    <Position X="8.75" Y="3.25" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAABAAAACQAAAAAAAAAA=</HashCode>
+      <FileName>object.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="bullet_simple" Collapsed="true">
+    <Position X="7.75" Y="4.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAABCAAAAAAAQAAAAAAAAAAIAACAAAAAAAAAAA=</HashCode>
+      <FileName>object.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="bullet_int" Collapsed="true">
+    <Position X="10" Y="4.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAACAQACAAAAAAIQAAAAAAAAAAIAgCAAgAAAAAAAA=</HashCode>
+      <FileName>object.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ship" Collapsed="true">
+    <Position X="3.25" Y="4.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAkBAAAECAAAAAEAAAAAAAAAYAQAAAABwAACAAAACQA=</HashCode>
+      <FileName>object.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ship_sml" Collapsed="true">
+    <Position X="1" Y="6.25" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAgAAAAEGCAQAAAAAQAAAAAAIAQCIAABAAAAAAAACQA=</HashCode>
+      <FileName>object.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ship_middle" Collapsed="true">
+    <Position X="3.25" Y="6.25" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAgAAAAECCAQAAAAAQAAAAAIIEQAIAABAAAAAAAACQA=</HashCode>
+      <FileName>object.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ship_big" Collapsed="true">
+    <Position X="5.5" Y="6.25" Width="2" />
+    <TypeIdentifier>
+      <HashCode>ACgAAAAECCAQAAAAAQAAAAAAIAQAIAABEABAAAABCQA=</HashCode>
+      <FileName>object.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="explose" Collapsed="true">
+    <Position X="12.25" Y="3.25" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAGAAACAAAAAACAAAAAAAAAAAIAAAIAAAAAAAAAA=</HashCode>
+      <FileName>object.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="timer" Collapsed="true">
+    <Position X="13.25" Y="7.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>BASAAAAAQAAAAAAAAAACCAgAQAAgAAAAAAQAABAAAgA=</HashCode>
+      <FileName>time.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Struct Name="SimpleVertex1" Collapsed="true">
+    <Position X="11.25" Y="9.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAIAAAAAAACAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>App.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="SimpleVertex2" Collapsed="true">
+    <Position X="13.25" Y="9.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAYAAAAAAACIAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>App.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="ConstantBuffer" Collapsed="true">
+    <Position X="7.25" Y="8.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAA=</HashCode>
+      <FileName>App.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="inf_ship_obj" Collapsed="true">
+    <Position X="13.25" Y="8.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAoAAAIAAAYgACAAQAAAAABhAABAAAgA=</HashCode>
+      <FileName>object.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="inf_bullet_obj" Collapsed="true">
+    <Position X="11.25" Y="8.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAABAAoAAAAAAAYgAAAAQAAAAABhEABAAAAA=</HashCode>
+      <FileName>object.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Enum Name="stany" Collapsed="true">
+    <Position X="9.25" Y="8.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAEAoAAAABAAAAAAAAAAAAACAAAAAAAAAAgAAAAAAA=</HashCode>
+      <FileName>object.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
